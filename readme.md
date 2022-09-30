@@ -8,7 +8,7 @@ Project-5
 
 ![](https://img.shields.io/badge/Rishu%20srivastava-BCA-orange)
 
-# **Project-5** [Live Link]
+# **Project-5** [Live Link](https://ineuronjsproject-6.netlify.app/)
  >- Skills gained in this project
  >- Learned about dom manipulation
  >- learned about fetch 
